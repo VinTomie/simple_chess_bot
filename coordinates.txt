@@ -1,0 +1,59 @@
+
+
+click black pieces character
+
+click play button
+
+click white pawn 
+click e4 
+
+750, 630
+750, 500
+
+switch()
+click corporate clash launcher
+click the correct version of clash
+
+1100, 875
+OR 
+1130, 870
+
+click black pawn
+click E5
+
+
+switch()
+click white queen
+click h7
+
+switch()
+click black pawn at a7
+click a6
+
+switch()
+click white pawn at a2
+click a3
+
+switch()
+click black pawn at a6
+click a5
+
+switch()
+click white pawn at a3
+click a4
+
+switch()
+click black pawn at b7
+click b6
+
+switch()
+click white pawn at b2
+click b3
+
+switch()
+click black king
+click e7
+
+switch()
+click black queen
+click e5
